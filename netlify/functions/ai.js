@@ -1,4 +1,4 @@
-netlify/functions/ai.js// Secure proxy for Anthropic API — keeps API key server-side only
+//netlify/functions/ai.js// Secure proxy for Anthropic API — keeps API key server-side only
 // Deploy this file at: netlify/functions/ai.js in your repo root
 
 exports.handler = async function(event) {
